@@ -6,7 +6,7 @@ Language: **Python**
 
 **HW1**: Basic text pre-processing, explotary analysis and visualizations.
 
-**HW2**: Constructed word matrix and performed topic modelling.
+**HW2**: Word matrix and topic modelling.
 
 **HW3**: Machine learning (Random Forest, k-NN) and deep learning (CNN, LSTM) on text / images. 
 
